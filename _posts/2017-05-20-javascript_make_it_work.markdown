@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  JavaScript 💅: Make it work
+title:  JavaScript: Make it work
 date:   2017-05-20 11:26:36 -0400
 categories: code projects
 ---
