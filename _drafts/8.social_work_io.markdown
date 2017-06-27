@@ -1,0 +1,8 @@
+---
+layout: post
+title: SocialWork.io logo and style tiles
+description: Logo design and style tiles for a purpose-driven project
+img: /img/12.jpg
+---
+
+With a focus on the mission of SocialWork.io, I designed a logo that embodied the tender heart of 
