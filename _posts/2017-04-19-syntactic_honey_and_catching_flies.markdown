@@ -2,6 +2,7 @@
 layout: post
 title:  "Syntactic honey and catching flies"
 date:   2017-04-19 11:30:47 -0400
+categories: code musings
 ---
 
 Syntactic sugar is a wonderful thing. It allows us to do many programming tasks so straightforwardly that at a certain point we forget that what we're writing is not "pure" syntax, but rather, syntax wrapped in a layer of abstraction.
